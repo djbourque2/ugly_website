@@ -1,4 +1,10 @@
 body {
     background-color: rgb(0, 255, 255);
-    color: rgb(221, 255, 0);
+
+    font-family: monospace;
+    color: #65d7fe;
+}
+
+#bird {
+    opacity: 0.1;
 }
